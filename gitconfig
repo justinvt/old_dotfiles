@@ -1,0 +1,14 @@
+[user]
+	name = @kidpollo
+	email = kidpollo@gmail.com
+[alias]
+	co = checkout
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[core]
+	excludesfile = /Users/kidpollo/.gitignore
+	editor = mate -w
+[apply]
+	whitespace = nowarn
